@@ -14,3 +14,28 @@ A ruby script to take the output of two csv files and combine them into 1
 ruby randomize.rb
 ```
 - A new file called 'random.csv' will be created in the same directory
+
+
+E.g:
+
+1.csv
+```
+gummy bears
+cardboard
+```
+
+
+2.csv
+```
+blender
+dry ice
+```
+
+Would output:
+
+random.csv
+```
+gummy bears in blender
+gummy bears in dry ice
+carboard in blender
+cardboard in dry ice
