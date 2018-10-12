@@ -37,5 +37,5 @@ random.csv
 ```
 gummy bears in blender
 gummy bears in dry ice
-carboard in blender
+cardboard in blender
 cardboard in dry ice
